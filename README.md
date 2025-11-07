@@ -1,2 +1,2 @@
 # C-projects
-here we
+here we are learing to use git and github
